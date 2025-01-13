@@ -6,7 +6,6 @@
 backup/
 dataset/
 runs/
-mt-edge/
 *.avi
 *.mov
 train
