@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['BOOMGATE']
+
+roboflow:
+  workspace: mywork-sk83k
+  project: barrier-detection-55zbi
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mywork-sk83k/barrier-detection-55zbi/dataset/1

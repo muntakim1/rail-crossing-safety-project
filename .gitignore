@@ -1,0 +1,17 @@
+.venv/
+.vscode
+.ipynb_checkpoints/
+*.pt
+*.mp4
+backup/
+dataset/
+runs/
+mt-edge/
+*.avi
+*.mov
+train
+test
+valid
+runs
+*.pt
+*.mp4
