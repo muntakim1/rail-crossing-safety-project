@@ -2,6 +2,8 @@
 
 This repository is the main entry point for the **Rail-Crossing Safety Project**, an AI-driven solution designed to improve safety at railway crossings using computer vision, edge computing, and real-time alerts. The project is split into two submodules for better modularity and scalability.
 
+![Watch the video](assets/output.mp4)
+
 ## Repository Structure
 
 ### Submodules:
